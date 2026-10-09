@@ -2,7 +2,7 @@
 I like modding video games
 
 # Contact?
-Message [my Discord profile](https://vaultcord.com/tools/discord-id-lookup?prefill=303617148411183105) on the [Rain World Discord server](https://discord.gg/rainworld) or the [tModLoader Discord server](https://discord.gg/tmodloader) with a clear message introducing yourself and what you'd like to talk about.
+Message [my Discord profile](https://vaultcord.com/tools/discord-id-lookup?prefill=303617148411183105) on the [Rain World Discord server](https://discord.gg/rainworld) or the [tModLoader Discord server](https://discord.gg/tmodloader) introducing yourself and what you'd like to talk about.
 
 <!--
 **Dual-Iron/Dual-Iron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
